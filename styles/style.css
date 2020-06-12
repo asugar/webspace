@@ -1,0 +1,26 @@
+/*层叠样式表（Cascading Style Sheet，简称：CSS）*/
+
+/*CSS规则集
+p -- 选择器
+声明
+*/
+/*p {
+  color: red;
+}*/
+
+/** 
+ * 元素选择器
+ * id选择器
+ * 类选择器
+ * 属性选择器 
+ * 伪类选择器
+ * 
+ */
+
+
+html {
+  /* px 表示 “像素（pixels）”: 基础字号为 10 像素 */
+  font-size: 10px; 
+  /* Google fonts 输出的 CSS */
+  font-family: 'Open Sans', sans-serif; 
+}
