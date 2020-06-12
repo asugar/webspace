@@ -1,6 +1,6 @@
 [submodule "studyJs"]
 	path = studyJs
 	url = https://github.com/asugar/studyJs.git
-[submodule "study-CSS"]
-	path = study-CSS
-	url = https://github.com/asugar/study-CSS.git
+[submodule "studyCSS"]
+	path = studyCSS
+	url = https://github.com/asugar/studyCSS.git
