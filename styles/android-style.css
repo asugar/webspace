@@ -1,0 +1,19 @@
+
+nav {
+    border-bottom: 1px solid black;
+}
+
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.crumb {
+    display: inline-block;
+}
+
+html {
+    background-color: green;
+    color: azure;
+    font-size: 20px;
+}
