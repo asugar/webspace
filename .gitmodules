@@ -1,3 +1,4 @@
 [submodule "studyJs"]
 	path = studyJs
 	url = https://github.com/asugar/studyJs.git
+	branch = dev
